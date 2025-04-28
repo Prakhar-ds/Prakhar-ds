@@ -1,5 +1,8 @@
+<h1 align="center">👋 Hey, I'm Prakhar</h1>
+<h3 align="center">I'm a Full Stack Developer and Devops Engineer.</h3>
+
 # 💫 About Me:
-🔭 I’m currently working on <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m working as **Software Developer**<br>🌱 I’m currently learning **DevSecOps tools**<br>💬 Ask me about **Anything from my skills**<br>📫 How to reach me **prakhar.ds.dev@gmail.com**
 
 
 ## 🌐 Socials:
