@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Full Stack Developer and Devops Engineer.</h3>
 
 # 💫 About Me:
-🔭 I’m working as **Software Developer**<br>🌱 I’m currently learning **DevSecOps tools**<br>💬 Ask me about **Anything from my skills**<br>📫 How to reach me **prakhar.ds.dev@gmail.com**
+🔭 I’m working as **Devops Developer**<br>🌱 I’m currently learning **DevSecOps tools**<br>💬 Ask me about **Anything from my skills**<br>📫 How to reach me **prakhar.ds.dev@gmail.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prakhar-ds/) 
